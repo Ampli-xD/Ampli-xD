@@ -17,8 +17,7 @@ I am a python devloper currently learning C and DSA
 
 
 ## **Stats**
-[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&hide=TeX&layout=compact&theme=vision-friendly-dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
