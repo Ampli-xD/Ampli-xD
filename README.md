@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Logo](https://media1.tenor.com/images/8d40e2ca2ccbc2ed435a547b035026f8/tenor.gif?itemid=27032560)
+![Logo](./github-header-image.png)
 
 
 ## **About me**
