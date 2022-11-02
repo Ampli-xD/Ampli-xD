@@ -1,23 +1,25 @@
 
-<div align="center">
-
 ![Logo](./github-header-image.png)
 
 
 ## **About me**
 
-I am a python devloper currently learning C and DSA
+I am a python devloper currently learning C and DSA, I also joined college recently and am looking forward to making a lot of projects.
 
-🧠 I'm currently learning C programing language
+I am interested by new tech and I learn better by exploring and learning in fasination.
 
-👯‍♀️ I'm looking to collaborate on light projects based on C or Python
+You can contact me via Discord ```Disguised Gallant#5233```
 
-📫 Disguised Gallant#5233
-
-
+<div align="left">
 
 ## **Stats**
-[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats) 
+</div>
+<div align="right">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&hide=TeX&layout=compact&theme=vision-friendly-dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
@@ -30,7 +32,7 @@ I am a python devloper currently learning C and DSA
 ![Twitter](https://img.shields.io/twitter/follow/DudeAmpli?label=%20&logo=Twitter&style=for-the-badge)
 
 
-</div>
+
 <p align="center"><b>Visits</b><br>
   <img src="https://profile-counter.glitch.me/ampli-xd/count.svg" />
 </p>
