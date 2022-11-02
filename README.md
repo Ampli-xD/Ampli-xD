@@ -13,7 +13,7 @@ You can contact me via Discord ```Disguised Gallant#5233```
 <div align="left">
 
 ## **Stats**
-[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Src/PyLogo.png" width="200" height="200" />
+[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Src/ProLogo.png" width="200" height="200" />
  
 </div>
 <div align="right">
@@ -22,6 +22,8 @@ You can contact me via Discord ```Disguised Gallant#5233```
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&hide=TeX&layout=compact&theme=vision-friendly-dark)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./Src/Python-Logo-PNG.png" width="500" height="150" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 
