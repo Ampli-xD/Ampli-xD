@@ -4,26 +4,44 @@
 
 ## **About me**
 
-I am a python devloper currently learning C and DSA, I also joined college recently and am looking forward to making a lot of projects.
+I am a python devloper currently learning C and DSA, <br>I also joined college recently and am looking forward to making a lot of projects.
 
 I am interested by new tech and I learn better by exploring and learning in fasination.
 
 You can contact me via Discord ```Disguised Gallant#5233```
 
-<div align="left">
+<div align="center">
+
+<table>
+  <tr >
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true">
+    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&hide=TeX&layout=compact&theme=vision-friendly-dark" width= 130% height =100%></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D" width=100%>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh">
+    </td>
+</table>
+
+
+
 
 ## **Stats**
-[![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Src/PyLogo.png" width="20%" height="20%" />
- 
-</div>
-<div align="right">
 
-<img src="./Src/CLogo.png" width="20%" height="20%" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
+ [![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&hide=TeX&layout=compact&theme=vision-friendly-dark)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 <img src="./Src/ProLogo.png" width="30%" height="30%" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
