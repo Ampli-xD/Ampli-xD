@@ -29,29 +29,17 @@ You can contact me via Discord ```Disguised Gallant#5233```
 
 
 
-## **Stats**
-
- [![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/ampli-xd/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&hide=TeX&layout=compact&theme=vision-friendly-dark)
-</div>
-
 <img src="./Src/ProLogo.png" width="30%" height="30%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
+<!-- [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=lua&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=markdown&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Basic256&fill=fdd017)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Basic256&fill=fdd017)](https://github.com/harish-sethuraman/readme-components) -->
 ## **🔗 Links**
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-kapoor-35ab9a166)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DudeAmpli)
