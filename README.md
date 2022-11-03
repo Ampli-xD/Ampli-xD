@@ -20,7 +20,7 @@ You can contact me via Discord ```Disguised Gallant#5233```
   </tr>
   
   <tr>
-    <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh">
+    <td colspan="2" align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh" ></img>
     </td>
 </table>
 
