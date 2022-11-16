@@ -8,7 +8,7 @@ I am a python devloper currently learning C and DSA, <br>I also joined college r
 
 I am interested by new tech and I learn better by exploring and learning in fasination.
 
-You can contact me via Discord ```Disguised Gallant#5233```
+You can contact me via Discord ```DishantOfficial#1623```
 
 <div align="center">
 
