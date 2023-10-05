@@ -18,9 +18,10 @@ You can contact me via Discord ```Dishant.pyw```
     </td>
     <td><img src="https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D"></td>
   </tr>
+  <center>
 <tr><td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true">
-</td></tr>
+</td></tr></center>
   
   <tr>
     <td colspan="2" align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh" ></img>
