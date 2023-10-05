@@ -8,7 +8,7 @@ I am a python devloper currently learning C and DSA, <br>I also joined college r
 
 I am interested by new tech and I learn better by exploring and learning in fasination.
 
-You can contact me via Discord ```DishantOfficial#1623```
+You can contact me via Discord ```Dishant.pyw```
 
 <div align="center">
 
@@ -18,6 +18,9 @@ You can contact me via Discord ```DishantOfficial#1623```
     </td>
     <td><img src="https://streak-stats.demolab.com?user=ampli-xd&theme=highcontrast&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D"></td>
   </tr>
+<tr><td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true">
+</td></tr>
   
   <tr>
     <td colspan="2" align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh" ></img>
@@ -38,7 +41,7 @@ You can contact me via Discord ```DishantOfficial#1623```
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## **🛠 Tools and Resources I love to use !**
+## **🛠 Tools and Resources I used or tried!**
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -50,7 +53,6 @@ You can contact me via Discord ```DishantOfficial#1623```
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
