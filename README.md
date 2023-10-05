@@ -21,8 +21,10 @@ You can contact me via Discord ```Dishant.pyw```
 <tr><td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </td>
+  <tr>
     <td colspan="2" align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh" ></img>
     </td>
+  </tr>
 </table>
 
 
