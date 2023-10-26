@@ -3,7 +3,6 @@
 
 
 ## **About me**
-
 I am a python devloper currently learning C and DSA, <br>I also joined college recently and am looking forward to making a lot of projects.
 
 I am interested by new tech and I learn better by exploring and learning in fasination.
