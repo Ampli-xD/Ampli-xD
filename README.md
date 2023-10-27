@@ -28,6 +28,7 @@ You can contact me via Discord ```Dishant.pyw```
   </tr>
 </table>
 
+[![An image of @amplixd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amplixd)](https://holopin.io/@amplixd)
 
 ## **🐍Languages I used or tried**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
