@@ -27,6 +27,7 @@ You can contact me via Discord ```Dishant.pyw```
     </td>
   </tr>
 </table>
+~~~
 
 [![An image of @amplixd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amplixd)](https://holopin.io/@amplixd)
 
