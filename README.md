@@ -22,6 +22,9 @@ You can contact me via Discord ```Dishant.pyw```
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampli-xd&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </td><td><img src=”https://holopin.me/@amplixd">
        </td>
+<td>
+<a href="https://app.daily.dev/dishantkapoor"><img src="https://api.daily.dev/devcards/v2/35ekC7IerqbBOIKX6ah1B.png?type=default&r=dto" width="356" alt="Dishant Kapoor's Dev Card"/></a>
+</td>
   <tr>
     <td colspan="2" align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ampli-xd&theme=juicyfresh" ></img>
     </td>
